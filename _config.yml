@@ -18,16 +18,14 @@ prefer_datetime_locale:
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Seoul
 
+futrue: true
+
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: NIBBLE                          # the main title
 
 tagline: NIBBLE NIBBLE   # it will display as the sub-title
-
-futrue: true
-
-published: true
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
