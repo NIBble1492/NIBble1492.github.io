@@ -25,6 +25,10 @@ title: NIBBLE                          # the main title
 
 tagline: NIBBLE NIBBLE   # it will display as the sub-title
 
+futrue: true
+
+published: true
+
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
